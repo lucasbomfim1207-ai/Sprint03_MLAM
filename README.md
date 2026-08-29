@@ -18,7 +18,7 @@ A partir da base de dados **Global EV Charging Stations**, foram selecionadas va
 
 Variável selecionada para os exercícios de probabilidade: **Charging Capacity (kW)** — assumida como seguindo uma Distribuição Normal, conforme orientação do desafio.
 
-![Gráfico da Regressão Linear](resultados/grafico_regressao.png)
+![Gráfico da Regressão Linear](Resultados/grafico_regressao.png)
 
 *Gráfico: relação entre Capacidade de Carga (kW) e Custo (USD/kWh), com reta de tendência da Regressão Linear.*
 
